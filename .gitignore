@@ -1,0 +1,15 @@
+# Node modules
+Frontend/node_modules/
+server/node_modules/
+
+# Environment files
+server/.env
+
+#Databsase and json files
+server/retrieve/History_search_engine.db
+server/Data/wikipedia/extracted_articles.jsonl
+server/Data/wikipedia/history_chunks.jsonl
+server/Embedding_folder/history_embeddings.npy
+server/Embedding_folder/history_chunk_metadata.json
+
+#Not important js files
